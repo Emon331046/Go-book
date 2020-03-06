@@ -15,10 +15,17 @@ func second() {
 	fmt.Println("2nd")
 }
 func main() {
-	first()
-	first()
-	defer third()
-	first()
-	defer second()
-	defer fourth()
+	//first()
+	//first()
+	//defer third()
+	//first()
+	//defer second()
+	//defer fourth()
+	defer func() {
+		str := recover()
+		fmt.Println(str)
+	}()
+	panic("PANIC")
+	//str := recover()
+	//fmt.Println(str)
 }
