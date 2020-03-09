@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="71004b6c-99cb-4e38-a899-ff0c46ec9dea" name="Default Changelist" comment="" />
+    <list default="true" id="71004b6c-99cb-4e38-a899-ff0c46ec9dea" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,6 +46,22 @@
       <recent name="$PROJECT_DIR$/ch4" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="go build go-book/ch10" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go-book" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/ch10/goroutines.go" />
+      <package value="go-book/ch10" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build go-book/ch10" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
@@ -52,6 +70,22 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="623" y="327" width="730" height="449" key="EditFileWatcherDialog/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1583400012046" />
+    <state width="894" height="287" key="GridCell.Tab.0.bottom" timestamp="1583730243620">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="894" height="287" key="GridCell.Tab.0.bottom/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583730243620" />
+    <state width="894" height="287" key="GridCell.Tab.0.center" timestamp="1583730243619">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="894" height="287" key="GridCell.Tab.0.center/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583730243619" />
+    <state width="894" height="287" key="GridCell.Tab.0.left" timestamp="1583730243619">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="894" height="287" key="GridCell.Tab.0.left/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583730243619" />
+    <state width="894" height="287" key="GridCell.Tab.0.right" timestamp="1583730243620">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="894" height="287" key="GridCell.Tab.0.right/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1583730243620" />
     <state x="2343" y="164" key="SettingsEditor" timestamp="1583472922882">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
